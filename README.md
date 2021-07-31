@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aditya Permadi
 - 👀 I’m interested in Back-End Programming
 - 🌱 I’m currently learning Laravel & Go-Lang
-- 💞️ I’m looking to collaborate on any Back-End Project
 - 📫 How to reach me : adityaperm06@gmail.com
 
 <!---
