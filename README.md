@@ -9,7 +9,7 @@ I've studied 2 programming languages (Golang and Laravel). For golang I've studi
 * 🧠  I'm learning Golang & Laravel
 
 <p align="center">
-<a href="https://www.twitter.com/additya_pp" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/addityapp" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/additya_pp?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/enylvia" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/enylvia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
