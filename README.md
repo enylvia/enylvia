@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I've studied 2 programming languages (Golang and Laravel). For golang I've studied about 1 year and for laravel about 1 year and a half. But for laravel itself I rarely use it and now actively use golang
 
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Indonesia(Pontianak/Jakarta)
 * ✉️  You can contact me at [addityap@hotmail.com](mailto:addityap@hotmail.com)
-* 🧠  I'm learning Golang & Laravel
+* 🧠  Golang & Laravel
 
 <p align="center">
 <a href="https://www.twitter.com/addityapp" target="_blank" rel="noreferrer"><img
@@ -30,9 +30,3 @@ src="https://img.shields.io/github/followers/enylvia?logo=github&style=for-the-b
 
 
 <p align="left"> <a href="https://www.github.com/enylvia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="15" height="15" /></a> <a href="https://www.linkedin.com/in/enadityap" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="15" height="15" /></a> <a href="https://www.twitter.com/additya_pp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="15" height="15" /></a></p>
-
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/enylvia"><img src="https://github-readme-stats.vercel.app/api?username=enylvia&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="enylvia's GitHub stats" width="500" /></a>
