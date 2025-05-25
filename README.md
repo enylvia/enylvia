@@ -38,7 +38,7 @@ My main language is **Golang**, and recently I’ve been sharpening my skills in
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.twitter.com/addityapp" target="_blank"><img src="https://img.shields.io/twitter/follow/additya_pp?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+  <a href="https://www.twitter.com/addityapp" target="_blank"><img src="https://img.shields.io/twitter/follow/addityapp?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
   <a href="https://www.github.com/enylvia" target="_blank"><img src="https://img.shields.io/github/followers/enylvia?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 </p>
 
